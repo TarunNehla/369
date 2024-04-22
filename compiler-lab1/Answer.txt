@@ -1,0 +1,16 @@
+## Copilot
+Running your hello.c program in Windows is straightforward. Here's how you can do it:
+- Open Command Prompt: Press Win + R, type cmd, and press Enter.
+- Navigate to Your Program's Directory: Use the cd command to change to the directory containing your hello.c file. For example:
+
+cd C:\path\to\your\c\file
+
+- Compile Your C Program: Use the gcc compiler to compile your program. If you haven't installed a compiler yet, you can download and install one like MinGW. Here's the command to compile your program:
+
+gcc hello.c -o hello
+
+- Run Your Program: After compiling, run your program by typing the name of the output file followed by .exe:
+
+hello.exe
+
+Your program should execute, and you'll see the output in the Command Prompt window. Remember to replace C:\path\to\your\c\file with the actual path to your hello.c file.

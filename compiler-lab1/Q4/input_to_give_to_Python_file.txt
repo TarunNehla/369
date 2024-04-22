@@ -1,0 +1,13 @@
+Enter the number of LHS variables..
+1
+Enter the 1th grammar(production) want to be checked
+For null production please enter any special symbol or whitespace...
+S->aSb|c
+Grammar is accepted
+Enter the operator used in the given grammar including the terminals
+non-treminals should be in cursive(small)letter
++*abc
+['+', '*', 'a', 'b', 'c', '$']
+Enter the string want to be checked(non-terminals should be in cursive(small) letter...)
+a+b*c
+String is accepted
